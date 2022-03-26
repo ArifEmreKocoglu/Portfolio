@@ -1,0 +1,15 @@
+
+.detailsBaslik{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+.detailImage{
+    width: 800px;
+    height: 400px;
+}
+.baslık{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
